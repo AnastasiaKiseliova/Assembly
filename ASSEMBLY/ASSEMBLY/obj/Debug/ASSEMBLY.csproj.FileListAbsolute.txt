@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\bin\Debug\ASSEMBLY.exe.config
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\bin\Debug\ASSEMBLY.exe
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\bin\Debug\ASSEMBLY.pdb
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\obj\Debug\ASSEMBLY.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\obj\Debug\App.g.cs
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\obj\Debug\ASSEMBLY_MarkupCompile.cache
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\obj\Debug\ASSEMBLY_MarkupCompile.lref
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\obj\Debug\ASSEMBLY.g.resources
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\obj\Debug\ASSEMBLY.Properties.Resources.resources
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\obj\Debug\ASSEMBLY.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\obj\Debug\ASSEMBLY.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\obj\Debug\ASSEMBLY.exe
+C:\Users\User\source\repos\ASSEMBLY\ASSEMBLY\obj\Debug\ASSEMBLY.pdb
